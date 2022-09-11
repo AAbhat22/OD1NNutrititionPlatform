@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/OD1NNutrititionPlatform/static/css/main.7aa7bf01.css",
-    "main.js": "/OD1NNutrititionPlatform/static/js/main.8c386dd2.js",
+    "main.js": "/OD1NNutrititionPlatform/static/js/main.4debb3e4.js",
     "index.html": "/OD1NNutrititionPlatform/index.html"
   },
   "entrypoints": [
     "static/css/main.7aa7bf01.css",
-    "static/js/main.8c386dd2.js"
+    "static/js/main.4debb3e4.js"
   ]
 }
