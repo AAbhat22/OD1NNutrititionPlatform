@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OD1NNutrititionPlatform/static/css/main.32d0ed75.css",
+    "main.js": "/OD1NNutrititionPlatform/static/js/main.fda71db7.js",
+    "index.html": "/OD1NNutrititionPlatform/index.html",
+    "main.32d0ed75.css.map": "/OD1NNutrititionPlatform/static/css/main.32d0ed75.css.map",
+    "main.fda71db7.js.map": "/OD1NNutrititionPlatform/static/js/main.fda71db7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32d0ed75.css",
+    "static/js/main.fda71db7.js"
+  ]
+}
