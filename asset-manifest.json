@@ -1,13 +1,11 @@
 {
   "files": {
-    "main.css": "/OD1NNutrititionPlatform/static/css/main.32d0ed75.css",
-    "main.js": "/OD1NNutrititionPlatform/static/js/main.f4cdbe89.js",
-    "index.html": "/OD1NNutrititionPlatform/index.html",
-    "main.32d0ed75.css.map": "/OD1NNutrititionPlatform/static/css/main.32d0ed75.css.map",
-    "main.f4cdbe89.js.map": "/OD1NNutrititionPlatform/static/js/main.f4cdbe89.js.map"
+    "main.css": "/OD1NNutrititionPlatform/static/css/main.7aa7bf01.css",
+    "main.js": "/OD1NNutrititionPlatform/static/js/main.4851cc5c.js",
+    "index.html": "/OD1NNutrititionPlatform/index.html"
   },
   "entrypoints": [
-    "static/css/main.32d0ed75.css",
-    "static/js/main.f4cdbe89.js"
+    "static/css/main.7aa7bf01.css",
+    "static/js/main.4851cc5c.js"
   ]
 }
